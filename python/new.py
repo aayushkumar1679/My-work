@@ -1,3 +1,3 @@
 name = "ayush"
-for i in range(100):
-    print(f"my name is {name}")  
+for i in range(10):
+    print(f"my name is {name}")

@@ -1,3 +1,4 @@
 {
-  "editor.defaultFormatter": "ms-python.black-formatter"
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "workbench.colorTheme": "Bearded Theme feat. Melle Julie Light"
 }
