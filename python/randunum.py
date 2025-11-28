@@ -8,5 +8,5 @@ billy = random.choice(friends)
 
 
 randomIndex = random.randint(0, 4)
-# print(friends[randomIndex])
+print(friends[randomIndex])
 print(len(friends))
