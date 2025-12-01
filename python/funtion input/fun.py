@@ -6,7 +6,10 @@
 #
 # life_in_weeks(12)
 
-def printwith (name , location):
-    print(f"hello {name} from {location}")
+# def printwith (name , location):
+#     print(f"hello {name} from {location}")
+#
+# # printwith("ayush","india")
+# printwith(location="India", name="Ayush")\
 
-printwith("ayush","india")
+
